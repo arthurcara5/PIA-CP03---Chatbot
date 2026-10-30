@@ -11,8 +11,8 @@ O **FinMentor AI** é um chatbot especializado em **Educação Financeira Pessoa
 - **Memória de Conversa (`messages`):** Manutenção completa do histórico (`system`, `user`, `assistant`) a cada turno.
 - **Diferencial (+0,5) — Template de Prompt com Variáveis:** Função `montar_prompt(usuario, contexto)` para injetar perfil e objetivo do usuário dinamicamente.
 - **Diferencial (+0,5) — Múltiplas Personas:** Dicionário `PERSONAS` com 2 comportamentos distintos:
-  - `educador` (*Prof. Dênis*): Didático, acolhedor e focado em iniciantes.
-  - `analista` (*Helena*): Técnica, direta e estruturada em métricas (Selic, CDI, IOF, liquidez).
+  - `educador` (*Prof. Thiago Nigro*): Didático, acolhedor e focado em iniciantes.
+  - `analista` (*Dilma*): Técnica, direta e estruturada em métricas (Selic, CDI, IOF, liquidez).
 - **3 Diálogos Documentados (≥ 3 turnos cada):** Caminho Feliz (*Happy Path*), Caso Difícil (*Tricky*) e Fora do Escopo (*Out of Scope*).
 
 ## 🚀 Como Executar no Google Colab
